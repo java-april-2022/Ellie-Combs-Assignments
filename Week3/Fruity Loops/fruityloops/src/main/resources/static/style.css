@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.container {
+	background-color:light gray; 
+	justify-content: space-between;
+	border: 6px solid pink;
+	Margin-left:10px;
+}
+
+h1 {
+	color: pink;
+	Margin-left:50px;
+}
+
+.table {
+	justify-content: 10px, space-between;
+	Margin-left:50px;
+	width: 100px;
+}
